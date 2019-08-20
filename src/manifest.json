@@ -1,5 +1,5 @@
 {
-  "name": "Chrome Extension Webpack",
+  "name": "Query String Caching Buster",
   "options_page": "options.html",
   "background": {
     "page": "background.html"
